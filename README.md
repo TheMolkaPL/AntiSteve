@@ -1,7 +1,9 @@
-# NonPremium
+ï»¿# NonPremium
 
-W zwi¹zku z ogromnym piractwem (kradzierz¹) gry Minecraft w internecie powsta³ projekt jego ograniczenia.
+W zwiÄ…zku z ogromnym piractwem (kradzierzÄ…) gry Minecraft w internecie powstaÅ‚ projekt jego ograniczenia.
 
-Ju¿ dzisiaj zainstaluj plugin __AntiSteve__ na Twój serwer, a nie po¿a³ujesz!
-Najnowsze wersje mo¿na pobraæ z zak³adki [releases](https://github.com/Thefilippop1PL/AntiSteve/releases).
-Pamiêtaj, ¿e z ka¿d¹ wersj¹ wprowadzamy pe³no ciekawych zmian.
+JuÅ¼ dzisiaj zainstaluj plugin __AntiSteve__ na TwÃ³j serwer, a nie poÅ¼aÅ‚ujesz!
+Najnowsze wersje moÅ¼na pobraÄ‡ z zakÅ‚adki [releases](https://github.com/Thefilippop1PL/AntiSteve/releases).
+PamiÄ™taj, Å¼e z kaÅ¼dÄ… wersjÄ… wprowadzamy peÅ‚no ciekawych zmian.
+
+Å»egnajcie piraci!
