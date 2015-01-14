@@ -16,8 +16,8 @@ public class JebacNonPremium extends JavaPlugin {
 				this.getLogger().log(Level.INFO, "#########################################");
 				this.getLogger().log(Level.INFO, "#             NON PREMIUM!?             #");
 				this.getLogger().log(Level.INFO, "#########################################");
-				this.getLogger().log(Level.INFO, "#            WYLACZAM SERWER            #");
-				this.getLogger().log(Level.INFO, "#             Buy Minecraft:            #");
+				this.getLogger().log(Level.INFO, "#            WYLACZAM SERWER KURWA!            #");
+				this.getLogger().log(Level.INFO, "#             Buy Minecraft!:            #");
 				this.getLogger().log(Level.INFO, "# https://minecraft.net/store/minecraft #");
 				this.getLogger().log(Level.INFO, "#########################################");
 			}
