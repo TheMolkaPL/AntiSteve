@@ -8,7 +8,7 @@ Pamiętaj, że z każdą wersją wprowadzamy pełno ciekawych zmian.
 
 Żegnajcie piraci!
 
-Polecaja:
+#### Polecaja:
 kamcio96
 NorthPL
 ELDzi
