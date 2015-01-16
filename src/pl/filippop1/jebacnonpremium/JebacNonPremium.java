@@ -11,13 +11,13 @@ public class JebacNonPremium extends JavaPlugin {
 		this.getLogger().log(Level.INFO, "# ANTY STEVE ON #");
 		this.getLogger().log(Level.INFO, "#################");
 		if (!Bukkit.getOnlineMode()) {
-			for (int i = 0; i < 20; i++) {
+			for (int i = 0; i < 69; i++) {
 				this.getLogger().log(Level.INFO, "");
 				this.getLogger().log(Level.INFO, "#########################################");
 				this.getLogger().log(Level.INFO, "#             NON PREMIUM!?             #");
 				this.getLogger().log(Level.INFO, "#########################################");
-				this.getLogger().log(Level.INFO, "#            WYLACZAM SERWER KURWA!            #");
-				this.getLogger().log(Level.INFO, "#             Buy Minecraft!:            #");
+				this.getLogger().log(Level.INFO, "#         WYLACZAM SERWER KURWA!        #");
+				this.getLogger().log(Level.INFO, "#             Buy Minecraft!:           #");
 				this.getLogger().log(Level.INFO, "# https://minecraft.net/store/minecraft #");
 				this.getLogger().log(Level.INFO, "#########################################");
 			}
