@@ -7,3 +7,10 @@ Najnowsze wersje można pobrać z zakładki [releases](https://github.com/Thefil
 Pamiętaj, że z każdą wersją wprowadzamy pełno ciekawych zmian.
 
 Żegnajcie piraci!
+
+Polecaja:
+kamcio96
+NorthPL
+ELDzi
+TheMolkaPL
+Dzikoysk http://scr.hu/1792/ng0ue
